@@ -82,7 +82,7 @@ The lookup is not case sensitive. For an email Padlock does not know it responds
 
 ### Build Payment Request Body Service
 
-Before calling this, create the payment in GOV.UK Pay with `moto: true` and `authorisation_mode: "moto_api"`. Its response supplies the `payment_id` and the one-time token.
+Before calling this, create the payment in GOV.UK Pay with `moto: true` and `authorisation_mode: "moto_api"`. Its response supplies the `payment_id` and the `one-time-token`.
 
 ```ruby
 body = DefraRuby::Padlock::BuildPaymentRequestBodyService.run(
