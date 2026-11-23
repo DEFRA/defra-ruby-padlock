@@ -1,0 +1,21 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+*.gem
+
+# Ignore Gemfile.lock as this is a Ruby gem
+Gemfile.lock
+
+# rspec failure tracking
+.rspec_status
+
+# simplecov https://github.com/colszowka/simplecov
+coverage
+
+.env
+.env.local

@@ -1,0 +1,7 @@
+{
+  "username": "test.agent@example.gov.uk",
+  "userId": 123456,
+  "organisation": 1234,
+  "firstName": "Test",
+  "lastName": "Agent"
+}

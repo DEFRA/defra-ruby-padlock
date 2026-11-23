@@ -1,0 +1,12 @@
+{
+  "paymentReference": "testpaymentid0000000000002",
+  "results": [
+    {
+      "paymentResult": "Authorised",
+      "transactionTime": "2026-01-01 12:00:00",
+      "authCode": "",
+      "paymentProviderRef": "testpaymentid0000000000002",
+      "transactionAttempt": 1
+    }
+  ]
+}
